@@ -1,0 +1,24 @@
+Field,Option,Score,Primary route,Codex assist,Manual confirmation
+Visitor role,Individual learner,14,Trial lesson,System maps resource need to trial lesson evidence,Confirm learning goal and material readiness
+Visitor role,Foreign trade operator,18,System course,System maps workflow pain to course module,Confirm whether the user can prepare product or inquiry samples
+Visitor role,Team lead or owner,24,Enterprise diagnosis,System summarizes team workflow pain and sample material gaps,Confirm company context and data authorization
+Visitor role,Marketing or community lead,12,Nurture,System maps content interest to resource sequence,Confirm contact frequency and consent
+Resource need,Repeat-work self check,10,Nurture,System categorizes pain area from self-check result,Confirm whether user gave a real business pain
+Resource need,Inquiry demo,16,Trial lesson,System selects integrated-house inquiry evidence and demo script,Confirm inquiry sample is desensitized before demo
+Resource need,Course homework templates,18,System course,System maps download to course module and homework standard,Confirm learner understands homework and review requirements
+Resource need,Enterprise diagnosis kit,24,Enterprise diagnosis,System prepares enterprise material checklist and diagnosis route,Confirm decision maker and material authorization
+Business stage,Just browsing,8,Nurture,System recommends low-pressure resource follow-up,Confirm no hard selling or false urgency
+Business stage,Preparing to learn,16,Trial lesson,System builds trial lesson CTA and evidence page route,Confirm schedule and sample material readiness
+Business stage,Ready to consult,22,System course,System builds enrollment evidence response,Confirm scope, price, schedule, and boundaries manually
+Business stage,Team workflow problem,24,Enterprise diagnosis,System builds enterprise diagnosis intake summary,Confirm company approval and data handling boundary
+Contact readiness,Only download resource,4,Nurture,System prepares content-only follow-up note,Do not add sales pressure without explicit signal
+Contact readiness,Can watch demo,14,Trial lesson,System sends demo page route and one follow-up question,Confirm time and topic manually
+Contact readiness,Can submit sample,22,System course,System prepares sample-review brief and module route,Confirm sample is desensitized
+Contact readiness,Can schedule diagnosis,26,Enterprise diagnosis,System prepares enterprise diagnosis appointment brief,Confirm decision maker and authorization
+Boundary awareness,Understands manual gates,18,System course,System highlights Codex/manual boundary evidence,Confirm pricing, delivery, compliance, and commitment manually
+Boundary awareness,Needs boundary explanation,10,Trial lesson,System sends automation map and claim-boundary note,Confirm expectations before selling course
+Boundary awareness,Wants full automation promise,-10,Nurture,System prepares boundary correction response,Do not promise automatic deal, automatic quotation, or compliance replacement
+Decision,Enterprise diagnosis,80+,Enterprise service,Generate enterprise diagnosis brief,Human confirms data authorization and decision maker
+Decision,System course consultation,72+,Enrollment,Generate consultation evidence map,Human confirms package, schedule, and payment scope
+Decision,Trial lesson,56+,Trial or public demo,Generate demo route and sample request,Human confirms sample desensitization
+Decision,Nurture,Below 56,Resource follow-up,Generate content follow-up sequence,Human confirms consent and no-pressure frequency

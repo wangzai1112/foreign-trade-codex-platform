@@ -1,0 +1,16 @@
+field,description,example,owner,required
+tool_id,工具唯一编号,inquiry-analyzer,产品负责人,是
+tool_name,工具名称,询盘识别与回复工具,产品负责人,是
+business_scenario,真实业务场景,客户询价 80 套集成房屋并要求 CIF Jeddah,课程负责人,是
+target_users,使用对象,业务员/业务主管/试听课老师,课程负责人,是
+course_links,关联课程模块,回询盘/报价前确认/集成房屋案例,课程负责人,是
+inputs,输入字段,原始询盘/产品资料/公司介绍/风险边界,产品负责人,是
+codex_role,Codex 角色,整理需求/识别缺失/生成草稿/提示风险,产品负责人,是
+logic_rules,核心逻辑,提取数量目的港配置/匹配缺失字段/生成补问问题,开发负责人,是
+outputs,输出结果,需求摘要/缺失字段/补问问题/英文回复草稿,产品负责人,是
+manual_boundaries,人工确认边界,价格/交期/付款/DDP/认证必须人工确认,课程负责人,是
+acceptance_checks,验收标准,样例询盘能识别数量 CIF Jeddah 和至少 4 个缺失字段,产品负责人,是
+demo_case,课堂演示案例,20ft 可扩展集成房屋出口项目,课程负责人,是
+data_source,样例数据来源,脱敏询盘/课程案例/企业样例,企业服务负责人,是
+release_stage,发布阶段,V1 静态/V2 轻交互/V3 可导出,产品负责人,是
+maintenance_owner,维护负责人,课程负责人 + 产品负责人,运营负责人,是

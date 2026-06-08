@@ -1,0 +1,25 @@
+Field,Option,Score,Review decision,Codex assist,Manual gate
+Usage context,Classroom demo,16,Classroom refinement,Collect teacher notes and confusing steps,Teacher confirms teaching sequence
+Usage context,Homework review,18,Homework repair,Extract common learner mistakes and repair examples,Assistant confirms grading fairness
+Usage context,Tool output,22,Tool sprint update,Map prompt issue to input fields and acceptance cases,Product owner confirms tool scope
+Usage context,Enterprise SOP,24,Enterprise approval,Record workflow fit and staff adoption,Enterprise owner confirms authorization
+Evidence quality,Verified outputs,22,Keep and scale,Summarize proof and reusable examples,Human confirms evidence source
+Evidence quality,Partial evidence,12,Repair before scale,Generate missing evidence checklist,Owner confirms next validation sample
+Evidence quality,Weak or anecdotal,4,Hold in review pool,Generate review questions,Do not publish as proof
+Evidence quality,Contradictory or risky,-12,Rollback or block,Generate rollback note and boundary correction,Owner approves removal before reuse
+Issue type,Missing input fields,14,Prompt repair,Add required input checklist,Teacher/product owner confirms fields
+Issue type,Vague output,10,Output format repair,Rewrite output schema and examples,Reviewer confirms usable format
+Issue type,Boundary confusion,-8,Boundary repair,Add no-go claims and manual gates,Owner confirms risk statement
+Issue type,Hallucinated facts,-18,Rollback or strict repair,Add known/missing separation and citation rule,Reviewer confirms no fabricated facts
+Risk level,Low teaching risk,12,Keep in class,Generate class note,Teacher confirms
+Risk level,Commercial claim risk,-8,Repair claims,Generate claim boundary note,Sales lead confirms
+Risk level,Confidential data risk,-16,Hold or rollback,Generate data authorization checklist,Data owner confirms authorization
+Risk level,Compliance or legal risk,-22,Block until professional review,Generate professional review pack,Specialist confirms final conclusion
+Next destination,Update prompt pack,16,Version write-back,Generate prompt pack diff,Prompt owner confirms update
+Next destination,Update tool spec,18,Tool sprint,Generate tool acceptance cases,Product owner confirms
+Next destination,Update homework rubric,14,Course repair,Generate rubric repair note,Teacher and assistant confirm
+Next destination,Enterprise SOP review,20,Enterprise review,Generate SOP adoption review,Enterprise owner confirms
+Decision,Scale prompt,78+,Keep and expand,Generate reusable prompt and release note,Owner approves
+Decision,Repair prompt,58+,Repair before reuse,Generate repair checklist,Reviewer validates
+Decision,Hold prompt,Below 58 or weak evidence,Review pool,Generate missing evidence list,Owner schedules next review
+Decision,Rollback prompt,Risky or fabricated,Remove from public/teaching use,Generate rollback and correction note,Owner approves rollback

@@ -1,0 +1,24 @@
+Field,Option,Score,Recommended scope,Codex assist,Manual gate
+Workflow type,Routine field extraction,18,Prompt or checklist,Extract fields and format tables,Human checks facts and missing fields
+Workflow type,Customer-facing draft,14,Template plus review,Generate draft and risk reminders,Human confirms tone promise and sending permission
+Workflow type,Commercial pricing or contract,8,Assisted only,Prepare cost checklist and approval questions,Authorized owner confirms price profit terms and liability
+Workflow type,Compliance document or legal risk,-12,No automatic replacement,Prepare review pack and conflict list,Professional or authorized role confirms final conclusion
+Input readiness,Structured sanitized data,22,Can prototype,Generate output from controlled fields,Human confirms sample is authorized
+Input readiness,Partial data with gaps,14,Template first,Generate missing-field list,Human collects missing product order or document fields
+Input readiness,Unclear or mixed data,4,Hold for intake,Create material intake checklist,Human clarifies source and ownership
+Input readiness,Sensitive unapproved data,-10,No release,Prepare desensitization checklist,Human confirms authorization before use
+Output impact,Classroom demo,14,Demo tool,Generate teaching output and prompt,Teacher confirms lesson fit
+Output impact,Homework review,18,Homework tool,Generate rubric and repair list,Assistant confirms pass or repair
+Output impact,Enterprise workflow,24,Enterprise project,Generate SOP/tool scope brief,Enterprise owner confirms data and workflow responsibility
+Output impact,External customer sending,10,Assisted only,Generate draft and checklist,Sales owner confirms before sending
+Manual boundary,Owner confirmed,20,Can sprint,Generate acceptance and review gates,Owner signs off before launch
+Manual boundary,Owner unclear,6,Hold for owner,Generate responsibility checklist,Human assigns reviewer
+Manual boundary,Prohibited replacement,-24,No-go,Generate boundary correction note,Human blocks automation promise
+Deployment mode,Prompt template,12,Prompt library,Generate reusable prompt and QA checks,Teacher verifies output
+Deployment mode,Checklist or CSV,16,Resource/tool spec,Generate downloadable checklist,Owner validates fields
+Deployment mode,Light interactive tool,22,Tool sprint,Generate tool brief and acceptance cases,Product owner approves scope
+Deployment mode,Enterprise workbench,26,Enterprise service,Generate enterprise scope and handoff,Enterprise owner approves authorization
+Decision,Enterprise project,84+,Enterprise diagnosis or SOP/tool project,Generate enterprise scope brief,Confirm data authorization decision maker and acceptance
+Decision,Tool sprint,76+,Tool center sprint,Generate productization and sprint brief,Confirm evidence, acceptance, and manual boundary
+Decision,Classroom template,58+,Course or resource template,Generate teaching prompt and downloadable asset,Confirm lesson fit and no-go claims
+Decision,Hold or no-go,Below 58 or prohibited,Material intake or boundary correction,Generate repair list,Confirm owner, authorization, or professional review

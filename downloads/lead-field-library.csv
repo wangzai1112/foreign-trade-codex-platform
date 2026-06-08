@@ -1,0 +1,9 @@
+字段,说明,示例,用途,人工确认点
+目标国家,优先开发市场,Saudi Arabia,用于客户搜索和内容本地化,市场优先级
+客户类型,承包商/进口商/经销商/终端项目方,Construction contractor,判断开发信角度,客户质量
+项目场景,客户可能使用产品的业务场景,Worker accommodation camp,生成开发信卖点,场景真实性
+公司规模,员工数/项目规模/网站信息,Mid-size contractor,决定跟进优先级,数据可靠性
+采购角色,Owner/Purchasing/Project manager,Project manager,决定沟通方式,联系人身份
+痛点标签,交期/价格/安装/认证/售后,Installation guide,生成邮件重点,是否真实匹配
+跟进等级,A/B/C,A,安排跟进节奏,业务主观判断
+下一步动作,邮件/电话/LinkedIn/报价,Send intro email,形成待办,是否继续投入

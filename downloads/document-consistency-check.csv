@@ -1,0 +1,7 @@
+检查字段,PI,CI,PL,风险等级,处理建议,必须确认人
+Quantity,80 units,78 units,80 units,High,CI 数量需回到订单主数据核对后修正,业务+单证
+Gross Weight,To be confirmed,Not shown,48000 kg,Medium,以工厂装柜数据和货代订舱资料复核,工厂+物流
+Product Description,With bathroom and electrical wiring,Container house,Expandable container house,Medium,统一英文品名和配置描述,业务+单证
+Port of Discharge,Jeddah,Jeddah,Dammam,High,PL/订舱资料目的港需立即确认,物流+单证
+Trade Term,CIF Jeddah,CIF Jeddah,CIF Jeddah,Low,保持合同和发票口径一致,业务
+HS Direction,9406 direction,9406 direction,Not shown,Medium,最终 HS Code 必须由专业人员确认,报关人员

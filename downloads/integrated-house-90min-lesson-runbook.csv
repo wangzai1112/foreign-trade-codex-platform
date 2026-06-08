@@ -1,0 +1,8 @@
+time_block,lesson_stage,teacher_action,screen_route,codex_operation,learner_output,assistant_check,manual_boundary,writeback_target
+00-08,开场定位和承诺边界,说明 80 套集成房屋项目如何串联询盘报价订单单证和风险,case-integrated-house.html;course.html,展示业务链路和验收标准,个人行业替换字段清单,确认学员写下产品客户类型目的港贸易术语,不得承诺真实报价成交或合规结论,course.html;classroom.html
+08-22,产品资料作为字段底座,展示产品参数选配安装质保 HS 方向和人工确认字段,case-integrated-house.html;tools.html,整理产品字段缺失资料 FAQ 英文参数草稿,产品资料缺口清单,至少 8 个产品字段 3 个缺失资料 3 个人工确认人,不得编造参数认证库存交期装柜数量,resources.html;tools.html
+22-42,询盘拆解和报价前补问,演示沙特承包商 80 套询盘的已知需求缺失字段补问和英文回复,case-integrated-house.html;tools.html;prompts.html,提取需求缺口客户补问内部确认和英文回复,询盘识别表和补问邮件,区分客户问题和内部问题,不得直接承诺 DDP 认证交期和最终价格,prompts.html;learning.html
+42-58,报价结构和 DDP 风险,拆基础价选配包装国内费用海运保险汇率利润和有效期,case-integrated-house.html;tools.html,生成 FOB/CIF 报价结构漏项提醒报价说明和 DDP 风险提示,FOB/CIF 报价字段表和漏项清单,标明可模板化项和必须确认项,成本海运汇率利润付款税费清关必须人工确认,tools.html;automation.html
+58-72,订单主数据和跟单节点,说明报价确认后如何沉淀 PI 字段图纸版本生产节点订舱尾款,case-integrated-house.html;classroom.html,从报价字段生成订单主数据跟单节点和客户进度邮件,订单主数据初稿和跟单节点看板,每个节点必须有负责人输入输出风险条件,图纸版本收款状态生产排期发货日期必须负责人确认,classroom.html;learning.html
+72-84,单证一致性和风险复核,展示 PI CI PL 订舱资料冲突并回到订单主数据核对,case-integrated-house.html;tools.html,对比单证字段输出冲突等级修正建议和复查说明,单证冲突报告和修正说明,能解释 Codex 只做一致性提示,报关银行信用证目的港要求必须专业复核,tools.html;resources.html
+84-90,作业布置招生证据和企业替换,总结四类作业并说明系统课咨询报名和企业内训下一步,learning.html;enrollment.html;enterprise.html;playbook.html,生成作业提交要求助教验收清单咨询口径和企业替换问题,个人外贸 Codex 工作流初稿提交计划,确认提交格式展示权限和后续跟进动作,公开展示必须脱敏授权并保留撤回机制,enrollment.html;enterprise.html;playbook.html

@@ -1,0 +1,7 @@
+Prompt Scene,Deployment Target,Audience,Evidence Status,Primary Page Route,Download Family,Codex Tasks,Manual Checks,Decision Rule,Next Action,Owner
+询盘识别与回复,系统课部署,老师/助教,集成房屋样例,"course.html; classroom.html; learning.html","demo-lesson-inquiry-analysis.md; inquiry-analysis-homework-template.md","拆解询盘; 输出缺失字段; 生成英文补问邮件","报价条件; 真实库存; 认证; 产品适配",课堂可部署,布置作业,主讲老师
+询盘识别与回复,公开课展示,课程顾问,授权展示,"marketing.html; enrollment.html; case-integrated-house.html","demo-lesson-inquiry-analysis.md; enrollment-consultation-evidence-map.csv","整理前后对比; 生成展示步骤; 标注边界","授权范围; 脱敏记录; 公开话术",可用于转化证据,生成咨询证据,市场运营
+报价测算与报价说明,工具规格,产品负责人,集成房屋样例,"tools.html; automation.html; playbook.html","quotation-cost-checklist.csv; tool-productization-brief-template.md","整理费用字段; 设计漏项检查; 输出验收规则","最终价格; 汇率; 运费有效期; 利润",进入工具规格,进入工具 Sprint,产品负责人
+订单跟进与单证检查,作业验收,学员,学员作业,"learning.html; classroom.html","order-tracking-homework-template.md; document-consistency-homework-template.md","检查订单节点; 识别单证冲突; 生成返修意见","金额; 重量; 港口; HS Code",课堂可部署,布置作业,助教
+付款、DDP 与合规风险,企业 SOP,企业负责人,企业内部,"enterprise.html; playbook.html","enterprise-readiness-scorecard.csv; commercial-offer-boundary-note.md","生成风险矩阵; 列出审批人; 输出谨慎表达","DDP; 清关税费; 法务; 付款风险",企业审批后部署,转企业交付,企业服务负责人
+客户开发与跟进,资源承接,课程顾问,待返修,"resources.html; enrollment.html","lead-field-library.csv; resource-lead-tagging-board.csv","拆客户画像; 生成跟进节奏; 设计资源承接","线索来源; 客户真实性; 合作案例",先返修或换公开样例,进入资源跟进,课程运营

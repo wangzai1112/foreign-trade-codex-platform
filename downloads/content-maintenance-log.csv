@@ -1,0 +1,2 @@
+date,area,trigger,files_changed,change_summary,validation,owner,next_action
+2026-06-01,示例,新增课程资源,data/site.js downloads/example.csv,新增资源卡片和下载文件,语法检查/HTTP 200/渲染检查,运营负责人,观察资源领取反馈

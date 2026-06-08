@@ -1,0 +1,21 @@
+Field,Option,Score,Recommended route,Codex assist,Manual gate
+Usage signal,Used in real inquiry,22,Keep using and collect proof,Summarize inquiry use case and output changes,Learner confirms customer facts before sending
+Usage signal,Used in quotation or order,24,Manual review plus tool refinement,Extract cost/order fields and repair needs,Owner confirms price terms delivery and payment
+Usage signal,Shared with team,26,Enterprise diagnosis candidate,Map personal workflow to team SOP needs,Team owner confirms authorization
+Usage signal,Not used yet,8,7-day nudge,Generate next small business action,Learner chooses next real task
+Evidence quality,Verified business use,24,Outcome proof candidate,Generate sanitized proof brief,Manual authorization before public use
+Evidence quality,Partial notes,14,Repair and retry,Generate missing evidence checklist,Assistant confirms what is missing
+Evidence quality,No evidence,4,Nurture and follow-up,Generate guided use plan,Do not claim outcome proof
+Evidence quality,Sensitive or unapproved,-12,Internal only,Generate desensitization checklist,Data owner confirms scope
+Use barrier,Missing product data,12,Repair product workspace,Generate missing-field list,Learner confirms product facts
+Use barrier,No real inquiry yet,10,Practice to next inquiry,Generate practice prompt and collection plan,Learner confirms next lead source
+Use barrier,Unsure manual boundary,-8,Boundary coaching,Generate manual gate checklist,Teacher confirms risk explanation
+Use barrier,Team approval needed,16,Enterprise handoff,Generate team approval brief,Team owner confirms
+Next destination,Personal workspace,14,Personal improvement,Generate 30-day action plan,Learner confirms schedule
+Next destination,Course repair,16,Course feedback,Generate module repair note,Teacher confirms update
+Next destination,Tool sprint,20,Tool demand candidate,Generate tool requirement brief,Product owner confirms demand
+Next destination,Enterprise service,24,Enterprise diagnosis,Generate enterprise signal brief,Enterprise owner confirms authorization
+Decision,Outcome proof,82+,Collect proof and showcase if authorized,Generate proof brief,Confirm authorization and no-go claims
+Decision,Tool or course repair,64+,Repair workflow and retest,Generate repair checklist,Teacher/product owner validates
+Decision,Enterprise signal,78+ with team signal,Route to enterprise diagnosis,Generate diagnosis intake,Confirm decision maker and data scope
+Decision,Nurture follow-up,Below 64,Follow 7/30-day plan,Generate action plan,Confirm contact consent
